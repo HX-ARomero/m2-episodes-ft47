@@ -1,0 +1,21 @@
+{
+  "name": "m2-episodes-ft47",
+  "version": "1.0.0",
+  "description": "Aplicación de Episodios",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
